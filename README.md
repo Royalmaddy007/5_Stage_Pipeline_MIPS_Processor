@@ -11,3 +11,5 @@ Sure, here's a high-level description of a 5-stage pipeline processor project im
 5. **Write Back (WB)**: The results of the execution are written back to the register file in this stage.
 
 The Verilog code for this project would involve designing modules for each of these stages and properly synchronizing them to ensure correct operation of the pipeline. The pipeline design allows the processor to work on multiple instructions at once, significantly increasing its throughput.
+
+![state](https://github.com/Royalmaddy007/5_Stage_Pipeline_MIPS_Processor/assets/82988350/6650dd39-b478-4a77-ae8e-46e356797f98)
